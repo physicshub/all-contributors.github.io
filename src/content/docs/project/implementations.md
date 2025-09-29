@@ -45,6 +45,7 @@ list, please [edit this page](contribute)!
 - [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)
 - [Soferity/Witcher](https://github.com/Soferity/Witcher)
 - [Schrodinger-Hat/youtube-to-anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
+- [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
 [github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=path%3A.all-contributorsrc&type=code&ref=searchresults)
